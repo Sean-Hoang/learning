@@ -13,6 +13,7 @@
     "vite": "^4.4.0"
   },
   "dependencies": {
-    "@types/three": "^0.153.0"
+    "@types/three": "^0.153.0",
+    "three": "^0.154.0"
   }
 }
